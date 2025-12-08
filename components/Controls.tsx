@@ -41,7 +41,7 @@ export const Controls: React.FC<ControlsProps> = ({
           <Palette className="text-white w-5 h-5" />
         </div>
         <h1 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">
-          ChromaHarmonie
+          ChromaPalette
         </h1>
       </div>
 
