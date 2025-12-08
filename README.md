@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-   ![Built with React](https://img.shields.io/badge/built%20with-React-61dafb)
-   ![Vite](https://img.shields.io/badge/Vite-powered-blueviolet)
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg">
+  <img src="https://img.shields.io/badge/built%20with-React-61dafb">
+  <img src="https://img.shields.io/badge/Vite-powered-blueviolet">
 </p>
 
 ChromaPalette est une application minimaliste et rapide permettant de créer, organiser et exporter des palettes de couleurs.  
